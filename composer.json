@@ -1,0 +1,12 @@
+{
+    "name": "alex/demo2",
+    "require": {
+        "houdunwang/arr": "^1.0"
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
+}
